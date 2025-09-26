@@ -22,8 +22,8 @@ Nosso projeto é voltado ao desenvolvimento de uma solução digital para um peq
 #### Sistema
 ### Tecnologias usadas
 <p align="left">
-  <img src="/img/css-3.png" height="50" width="50" alt="Foto do estabelecimento" style="margin-right: 10px;"/>
-  <img src="/img/html-5.png" height="50" width="50" alt="Foto do estabelecimento" style="margin-right: 10px;"/>
-  <img src="/img/js.png" height="50" width="50" alt="Foto do estabelecimento"/>
+  <img src="/img/css-3.png" height="50" width="50" alt="Logo CSS" style="margin-right: 10px;"/>
+  <img src="/img/html-5.png" height="50" width="50" alt="Logo HTML" style="margin-right: 10px;"/>
+  <img src="/img/js.png" height="50" width="50" alt="Logo JS"/>
 </p>
 

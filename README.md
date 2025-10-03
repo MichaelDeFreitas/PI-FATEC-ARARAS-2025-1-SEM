@@ -14,9 +14,10 @@ Este repositório contém o Projeto Integrador desenvolvido durante o primeiro s
 ## 💡 Sobre o Projeto
 
 Nosso projeto é voltado ao desenvolvimento de uma solução digital para um pequeno negócio da área de tecnologia da informação. O cliente atua com:
+Trasportes de pequeno porte no interior da cidade de Araras, localizada no estado de São Paulo
 
 ### Objetivos
-
+Um sistema que a comunicação, marketing e usubilidade usuário sejam simplificadas, com valores justos e visiveis, com futuras alterações complementares.
 #### Design
 
 #### Sistema

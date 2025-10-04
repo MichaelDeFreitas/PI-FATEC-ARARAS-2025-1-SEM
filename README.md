@@ -19,6 +19,10 @@ Trasportes de pequeno porte no interior da cidade de Araras, localizada no estad
 ### Objetivos
 Um sistema que a comunicação, marketing e usubilidade usuário sejam simplificadas, com valores justos e visiveis, com futuras alterações complementares.
 #### Design
+Paleta de cores usada:
+<p align="left">
+    <img src="/img/Paleta_de_cores.png" alt="Paleta de cores"/>
+</p>
 
 #### Sistema
 ### Tecnologias usadas

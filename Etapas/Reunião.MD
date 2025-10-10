@@ -29,7 +29,3 @@ Durante o encontro, foi aplicado um **questionário de levantamento de requisito
 - Iniciar o desenvolvimento dos protótipos de interface.  
 - Validar o caso de uso junto ao cliente na próxima reunião.  
 
----
-
-**Equipe:** Desenvolvimento Multiplataforma – Fatec Araras  
-**Projeto:** Levantamento de Requisitos e Análise de Sistema  

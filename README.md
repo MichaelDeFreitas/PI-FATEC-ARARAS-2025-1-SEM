@@ -25,6 +25,7 @@ Paleta de cores usada:
 </p>
 
 #### Sistema
+Baseado na necessidade do clientes, o sistema contara com cálculo de frete, design simples e intuitivo, focado na rapidez do contato e assim facilitando a organização.
 ### Tecnologias usadas
 <p align="left">
   <img src="/img/css-3.png" height="50" width="50" alt="Logo CSS" style="margin-right: 10px;"/>

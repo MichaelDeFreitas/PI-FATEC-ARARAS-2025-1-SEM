@@ -21,7 +21,7 @@ Um sistema que a comunicação, marketing e usubilidade usuário sejam simplific
 #### Design
 Paleta de cores usada:
 <p align="left">
-    <img src="/img/Paleta_de_cores.png" alt="Paleta de cores"/>
+    <img src="/img/Paleta.png" alt="Paleta de cores"/>
 </p>
 
 #### Sistema

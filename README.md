@@ -45,7 +45,7 @@ Baseado nas necessidades do cliente, o sistema contará com:
 - Foco na rapidez de contato
 - Facilidade na organização dos pedidos
 
-🔗 **Link do Sistema no Figma:** [Figma - Sistema SaveiroFretes](https://www.figma.com/design/ngiVOaq3hLFLxY4cgbjRyM/Sistema---SaveiroFretes?node-id=0-1&t=f5ZnrQHr9m7ihJVe-1)
+🔗 **Link do Sistema no Figma:** [Figma - Sistema JoãoFretes](https://www.figma.com/design/ngiVOaq3hLFLxY4cgbjRyM/Sistema---SaveiroFretes?node-id=0-1&t=f5ZnrQHr9m7ihJVe-1)
 
 ---
 

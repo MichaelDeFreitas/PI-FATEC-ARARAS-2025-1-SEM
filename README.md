@@ -7,9 +7,9 @@ Este repositório contém o Projeto Integrador desenvolvido durante o primeiro s
 
 ## 👥 Participantes do Grupo
 
+- [Michael Pierre Nintz de Freitas (PO)](https://github.com/MichaelDeFreitas) 
 - [Maylon Henrique Leyn](https://github.com/maylonhenriqueleyn)
 - [João Victor Paulino](https://github.com/366244jvpaulino)
-- [Michael Pierre Nintz de Freitas](https://github.com/MichaelDeFreitas)
 - [Lincoln Gabriel](https://github.com/Lincoln0777)
 - [Alexandre De Souza Santos](https://github.com/alexandresantoos3005-png)
 

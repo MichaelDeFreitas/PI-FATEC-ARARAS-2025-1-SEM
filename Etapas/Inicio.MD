@@ -1,9 +1,9 @@
-# 🚚 Projeto Integrador — Fretes de Pequeno Porte  
+# 🚚 Projeto Integrador — JoãoFretes 
 ### *FATEC Araras — 1º Semestre de DSM*
 
 No mês de **setembro**, demos o passo inicial para o nosso Projeto Integrador (PI). Foi quando juntamos os grupos, alinhamos as ideias e começamos a desenhar o que seria o nosso primeiro grande projeto do curso.
 
-Depois de algumas conversas, cafés e debates (alguns bem intensos 😅), decidimos seguir com o **Modelo Incremental**. A escolha não foi por acaso: queríamos algo que tornasse o projeto mais leve, adaptável e fluido para todo o grupo.
+Depois de algumas conversas, cafés e debates, decidimos seguir com o **Modelo Incremental**. A escolha não foi por acaso: queríamos algo que tornasse o projeto mais leve, adaptável e fluido para todo o grupo.
 
 ## 👤 Nosso Cliente  
 Escolhemos como cliente o **João Victor Paulino**, que trouxe uma proposta muito interessante:  
@@ -16,7 +16,7 @@ Com cliente definido e objetivo claro, começamos oficialmente o desenvolvimento
 ## 🧩 Por que escolhemos o Modelo Incremental?
 
 Trabalhar com um cliente real significa uma coisa: **mudanças vão acontecer**.  
-E, honestamente, elas aconteceram mesmo! 😆
+E, honestamente, elas aconteceram mesmo!
 
 O modelo incremental foi perfeito para isso, porque:
 
